@@ -1,0 +1,86 @@
+.site-header{
+    
+    color: rgb(214, 141, 141)
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+
+.site-header-text{
+ margin: 10px;
+ 
+}
+
+.bullets{
+    color: rgba(1, 78, 107, 0.85);
+
+    font: initial;
+}
+
+.labels{
+    font-family: inherit;
+    color: #c45555;
+}
+.social{
+    border-radius: 20%;
+    height: 45px;
+    width: 45px;
+    box-shadow: black 2px 5px 5px;  
+    margin-bottom: auto;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+
+.bio{
+    color: dimgrey;
+    font-style: oblique;
+}
+
+.profile{
+    border-radius: 50%;
+    height: 200ox;
+    width: 200px;
+    box-shadow: black 2px 5px 5px;
+    margin: 20px;
+}
+
+
+.course{
+    color: rgb(214, 141, 141); 
+}
+
+body{
+   
+    margin: 0;
+    background-color: lavender;
+}
+
+#wrapper {
+    width:100%;
+    margin : 0;
+    }
+    
+    #first-div {
+    width:50%;
+    margin : 0;
+    float : left ;
+    }
+    
+    #second-div {
+    width:50%;
+    margin : 0;
+    float : left ;
+    }
+
+.social-div{
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;  
+}
