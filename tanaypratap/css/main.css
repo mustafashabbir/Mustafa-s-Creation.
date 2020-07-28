@@ -1,7 +1,7 @@
 .site-header{
     
     color: rgb(214, 141, 141)
-    height: 100vh;
+    height: 150vh;
     font-family: monospace;
     display: flex;
     flex-direction: column;
@@ -44,7 +44,7 @@
 
 .profile{
     border-radius: 50%;
-    height: 250px;
+    height: 200px;
     width: 200px;
     box-shadow: black 2px 5px 5px;
     margin: 30px;
