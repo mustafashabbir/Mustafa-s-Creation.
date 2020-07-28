@@ -1,12 +1,13 @@
 .site-header{
     
     color: rgb(214, 141, 141)
-    height: 150vh;
+    height: 100vh;
     font-family: monospace;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;  
+    margin: 20px;,
 }
 
 
